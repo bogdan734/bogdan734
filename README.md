@@ -1,18 +1,20 @@
+<img src="assets/banner.svg" alt="Bohdan Havryliuk вАФ Founder & CEO at Kalorad, sovereign AI on our own model" width="100%">
+
 ## Bohdan Havryliuk
 
-Founder & CEO at **Kalorad** — a sovereign AI platform that runs on our own model instead of third-party APIs. I build the whole thing: the model, the backend, the billing, the growth loop.
+Founder & CEO at **Kalorad** вАФ a sovereign AI platform that runs on our own model instead of third-party APIs. I build the whole thing: the model, the backend, the billing, the growth loop.
 
 ### Kalorad
 
 One subscription replaces a stack of five AI tools. What is inside:
 
-**KaloradLM** — 1.3B decoder-only model (GQA / SwiGLU / RoPE / RMSNorm, 4k context) with a daily self-training loop: automatic scoring, checkpoint promotion, rollback on regression.
+**KaloradLM** вАФ 1.3B decoder-only model (GQA / SwiGLU / RoPE / RMSNorm, 4k context) with a daily self-training loop: automatic scoring, checkpoint promotion, rollback on regression.
 
-**Platform** — ASP.NET Core 9, streaming chat, RAG with cite-or-abstain, decaying long-term memory, permissioned tool router, 20 vertical agent packs, OpenAI-compatible API.
+**Platform** вАФ ASP.NET Core 9, streaming chat, RAG with cite-or-abstain, decaying long-term memory, permissioned tool router, 20 vertical agent packs, OpenAI-compatible API.
 
-**Monetisation** — Stripe subscriptions and one-off SKUs, usage metering, a gamified loyalty layer with published odds.
+**Monetisation** вАФ Stripe subscriptions and one-off SKUs, usage metering, a gamified loyalty layer with published odds.
 
-**Security** — audited the app and fixed CSRF across 33 of 37 POST endpoints plus a stored XSS, then added a site-wide CSP, rate limiting and account lockout.
+**Security** вАФ audited the app and fixed CSRF across 33 of 37 POST endpoints plus a stored XSS, then added a site-wide CSP, rate limiting and account lockout.
 
 No third-party AI APIs anywhere in the stack: own weights, own inference, own training pipeline.
 
@@ -31,6 +33,6 @@ No third-party AI APIs anywhere in the stack: own weights, own inference, own tr
 
 ### Background
 
-BSc (Hons) Artificial Intelligence, De Montfort University. AI Trainer at Meta, AI Training Contractor at Scale AI. Five years of full-stack engineering, two of them leading a team.
+BSc (Hons) Artificial Intelligence, De Montfort University. AI Trainer at Meta, AI Training Contractor at Scale AI. 5+ years of full-stack engineering, two of them leading a team.
 
-📫 [LinkedIn](https://www.linkedin.com/in/bohdan-havryliuk-370762386) · kaloradteam@gmail.com
+рЯУЂ [LinkedIn](https://www.linkedin.com/in/bohdan-havryliuk-370762386) ¬Ј kaloradteam@gmail.com
