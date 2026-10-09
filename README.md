@@ -51,6 +51,6 @@ Most client work is under NDA. These are the public pieces.
 
 ## Before Kalorad
 
-Five years of full-stack work for private clients in C#/.NET, Python and TypeScript, two of them leading a team. In 2025 and 2026 I worked on the other side of model training: AI Trainer at Meta, then AI Training Contractor at Scale AI, reviewing and rating model output, mostly code. BSc (Hons) Artificial Intelligence, De Montfort University.
+Five years of full-stack work for private clients in C#/.NET, Python and TypeScript, two of them leading a team. In 2025 and 2026 I worked on the other side of model training: AI Trainer at Meta, then AI Training Contractor at Scale AI, reviewing and rating model output, mostly code. BSc (Hons) Artificial Intelligence, De Montfort University, First Class.
 
 <p align="center"><a href="mailto:bohdan@kalorad.app">bohdan@kalorad.app</a> · <a href="https://kalorad.app">kalorad.app</a> · <a href="https://www.linkedin.com/in/bohdan-havryliuk-370762386">LinkedIn</a></p>
